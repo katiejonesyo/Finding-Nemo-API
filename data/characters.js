@@ -115,9 +115,9 @@ module.exports = [
   },
   {
     name: 'Mr.Ray',
-    type: '',
-    role: '',
-    quote: '',
+    type: 'Eagle Ray',
+    role: 'Teacher',
+    quote: '[Gasps] Stromalitic cyanobacteria! Gather.',
   },
   {
     name: 'Nigel',
@@ -126,21 +126,15 @@ module.exports = [
     quote: 'Fish gotta swim, birds gotta eat.',
   },
   {
-    name: 'Squirt',
-    type: '',
-    role: '',
-    quote: '',
-  },
-  {
     name: 'Dentist',
-    type: '',
-    role: '',
-    quote: '',
+    type: 'Dr. Philip Sherman',
+    role: 'Dentist',
+    quote: 'Crikey!',
   },
   {
     name: 'Darla',
-    type: '',
-    role: '',
-    quote: '',
+    type: 'Darla Sherman',
+    role: 'Fish Killer/Dentist Daughter',
+    quote: 'WAKE UP! Why are you sleeping?',
   },
 ];
