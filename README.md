@@ -5,7 +5,7 @@ The beginning of a small Finding Nemo API
 
 
 
-# Create SQL BE
+Create SQL BE
 
 ## Getting started
 1. Clone your repo down and run `npm i` to install dependencies.
