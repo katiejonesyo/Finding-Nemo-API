@@ -1,5 +1,5 @@
 
-The beginning of a small Finding Nemo API
+#The beginning of a small Finding Nemo API
 
 
 
@@ -7,7 +7,7 @@ The beginning of a small Finding Nemo API
 
 Create SQL BE
 
-## Getting started
+-Getting started
 1. Clone your repo down and run `npm i` to install dependencies.
 1. Change all the files in the `data` directory to match the data model of your app.
 1. Run `heroku create`
