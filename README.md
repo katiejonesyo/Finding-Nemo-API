@@ -1,3 +1,10 @@
+
+The beginning of a small Finding Nemo API
+
+
+
+
+
 # Create SQL BE
 
 ## Getting started
