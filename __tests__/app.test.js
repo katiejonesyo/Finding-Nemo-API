@@ -35,27 +35,16 @@ describe('app routes', () => {
 
       const expectation = [
         {
-          'id': 1,
-          'name': 'bessie',
-          'coolfactor': 3,
-          'owner_id': 1
+          // "id": 1,
+          // "name": "Marlin",
+          // "owner_id": 1,
+          // "role": "Dad",
+          // "type": "Clown Fish",
         },
-        {
-          'id': 2,
-          'name': 'jumpy',
-          'coolfactor': 4,
-          'owner_id': 1
-        },
-        {
-          'id': 3,
-          'name': 'spot',
-          'coolfactor': 10,
-          'owner_id': 1
-        }
       ];
 
       const data = await fakeRequest(app)
-        .get('/animals')
+        .get('/characters')
         .expect('Content-Type', /json/)
         .expect(200);
 
